@@ -1,0 +1,17 @@
+/* Success.css */
+
+.success-container {
+    text-align: center;
+  }
+  
+  pre {
+    text-align: left;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: auto;
+    max-height: 300px;
+    margin: 20px 0;
+  }
+  
